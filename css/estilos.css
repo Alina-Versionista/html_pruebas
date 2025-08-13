@@ -1,0 +1,19 @@
+
+/* 
+es para comentarios en CSS
+*/
+body{
+    background-color: cadetblue;
+
+}
+.cursiva{
+    font-style: italic;
+    background-color: green;
+
+}
+.negrita{
+    font-weight: 900;
+}
+#principal{
+    border: 1px solid black;
+}
